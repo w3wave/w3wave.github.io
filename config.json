@@ -1,0 +1,38 @@
+{"copyright": "Krira TV does not stream any of the channels included in this application, all the streaming links are from third-party websites available freely on the Internet. We are just giving way to stream and all content is the copyright of their owner.",
+"more_apps": "https://www.kriratv.com/",
+"privecy_policy": "Krira TV app is back... Please support us by sharing the app...Thank You",
+"telegram": "https://t.me/kriratv",
+"updateLink": "https://github.com/kriratv/app/releases/download/v2.2/app_v2.2.apk",
+"app_version": "9",
+"updateSize": "6.06",
+"update_web": "https://www.kriratv.com/",
+"live_score": "https://www.cricbuzz.com/",
+"blocked":"India",
+"football_url":"https://www.fotmob.com",
+"is_show_unity_ad": "false",
+"is_show_start_ad": "false",
+"is_popa": "false",
+"unity_test_mode": "false",
+"unity_ad_id": "5456861",
+"startapp_ad_id": "267997776",
+"unity_interval": "2",
+"startapp_interval": "1",
+"message": "To get latest update of krira TV app, join our Telegram channel (t.me/kriratv)",
+"message_link":"https://t.me/kriratv",
+"share_text": "Watch Live Sports For FREE on the Krira TV app. Download Now: https://www.kriratv.com/",
+"banner_ad": "",
+"banner_url": "",
+"live_logo": "https://media0.giphy.com/media/LpWtqK3i9xv8e9lkGS/giphy.gif?cid=6c09b95228fe059d6d112b1af588211397fc819e3517d45e&rid=giphy.gif",
+
+
+
+"showDialog":true,
+"cancel":1,
+"dialogTitle":"Join us on Telegram",
+"dialogMessage":"To get latest update of krira TV app, join our Telegram channel.",
+"dialogButton":"Join Now!",
+"dialog":"https://t.me/kriratv",
+"player":1,
+"player_version":6
+
+}
