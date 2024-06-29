@@ -18,7 +18,7 @@
 "unity_interval": "2",
 "startapp_interval": "1",
 "message": "To get latest update of krira TV app, join our Telegram channel (t.me/kriratv)",
-"message_link":"https://t.me/kriratv",
+"message_link":"https://t.me/boost/kriratv",
 "share_text": "Watch Live Sports For FREE on the Krira TV app. Download Now: https://www.kriratv.com/",
 "banner_ad": "https://www.kriratv.com/assets/images/banner_spotifypremium.png",
 "banner_url": "https://www.spotifypremium.download/?ref=kriratv_app",
@@ -31,7 +31,7 @@
 "dialogTitle":"Join us on Telegram",
 "dialogMessage":"To get latest update of krira TV app, join our Telegram channel.",
 "dialogButton":"Join Now!",
-"dialog":"https://t.me/kriratv",
+"dialog":"https://t.me/boost/kriratv",
 "player":1,
 "player_version":6
 
