@@ -2,9 +2,9 @@
 "more_apps": "https://www.kriratv.com/",
 "privecy_policy": "Krira TV app is back... Please support us by sharing the app...Thank You",
 "telegram": "https://t.me/kriratv",
-"updateLink": "https://github.com/ayaanahad/ktv/releases/download/app/v2.3.apk",
-"app_version": "10",
-"updateSize": "5.30",
+"updateLink": "https://github.com/ayaanahad/ktv/releases/download/v2.4/release.apk",
+"app_version": "11",
+"updateSize": "5.26",
 "update_web": "https://www.kriratv.com/",
 "live_score": "https://www.cricbuzz.com/",
 "blocked":"India",
@@ -33,6 +33,6 @@
 "dialogButton":"Join Now!",
 "dialog":"https://t.me/kriratv",
 "player":1,
-"player_version":33
+"player_version":34
 
 }
